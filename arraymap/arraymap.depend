@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1530289992 source:c:\users\buriansandor\desktop\cpp\arraymap\main.cpp
+	<iostream>
+	"arsmap.h"
+	<map>
+	<functional>
+	<algorithm>
+	<string>
+	"arsmap.h"
+
+1530293002 c:\users\buriansandor\desktop\cpp\arraymap\arsmap.h
+	<vector>
+
